@@ -1,4 +1,4 @@
-public class BirthdayDate {
+public class FormDate {
     public int day;
     public int month;
     public int year;
